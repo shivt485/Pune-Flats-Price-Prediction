@@ -1,0 +1,23 @@
+Project Overview
+This project focuses on predicting flat prices in Pune using machine learning. The data is sourced from Magic Bricks, covering various residential property types.
+
+Requirements
+Ensure you have Python 3.x installed. Dependencies include requests, BeautifulSoup, pandas, and relevant machine learning libraries.
+
+Installation
+Install the necessary dependencies using pip. Detailed instructions are provided in the installation section.
+
+Data Preprocessing
+Before applying machine learning algorithms, the data undergoes preprocessing. This involves handling missing values, converting data types, and other necessary cleaning processes.
+
+Exploratory Data Analysis (EDA)
+Explore the dataset to gain insights into its distribution. Visualizations such as histograms and scatter plots are created to understand the data better.
+
+Machine Learning Model
+Implement a machine learning model for price prediction. Features, the target variable, and specific preprocessing steps for the machine learning model are explained.
+
+Acknowledgments
+Give credit to Magic Bricks for providing valuable real estate data.
+
+Contributing
+Feel free to contribute by opening issues or pull requests. Your contributions are welcome!
